@@ -1,0 +1,8 @@
+Made By GNDFR
+
+[On windows]
+Download 'InstallerWin' from latest release and run it (You must allow UAC)
+
+[On Linux]
+Download 'InstallerLinux' from latest release,
+Type ```chmod +x InstallerLinux``` and Run ./InstallerLinux
