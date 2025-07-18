@@ -5,7 +5,7 @@ Made By GNDFR
 
 [On Linux]
   Download 'InstallerLinux' from latest release,
-  Type ```chmod +x InstallerLinux``` and Run ```./InstallerLinux```
+  Type ```chmod +x InstallerLinux``` and Run ```sudo ./InstallerLinux```
 
 [On Mac]
   Download 'InstallerMac' from latest release,
